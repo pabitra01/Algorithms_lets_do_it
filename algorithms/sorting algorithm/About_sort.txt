@@ -1,0 +1,1 @@
+Sorting is a technique in which we can sort the data items of any data structures in ascending or descending order.
